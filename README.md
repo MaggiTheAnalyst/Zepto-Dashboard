@@ -42,7 +42,8 @@ Measures the sales performance by location, identifying which regions contribute
 
 ## Dashboard
 
-![Zepto Dashboard](https://github.com/user-attachments/assets/ccef1e64-4f69-48d0-8887-bb50c103527e)
+![Zepto Dashboard](https://github.com/user-attachments/assets/df192a74-8259-4e57-8d20-881a07f7a72e)
+
 
 ## Project Insight
 
